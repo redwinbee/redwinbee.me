@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Cascadia+Mono:ital,wght@0,200..700;1,200..700&display=swap');
+
+.cascadia-mono-normal {
+    font-family: "Cascadia Mono", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.cascadia-mono-semibold {
+    font-family: "Cascadia Mono", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+h1 {
+    color: #f0f0f5;
+}
+
+body {
+    color: #9c9cb1
+}
+
+html {
+    background: #1b1c26
+}
